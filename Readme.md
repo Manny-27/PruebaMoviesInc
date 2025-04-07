@@ -7,8 +7,8 @@ Una moderna aplicación de películas desarrollada en **React Native** utilizand
 ## ✨ Vista previa
 
 <!-- Inserta aquí tus capturas de pantalla o gifs animados de la app -->
-<!-- ![Demo 1](ruta-a-tu-imagen.gif) -->
-<!-- ![Demo 2](ruta-a-tu-imagen.gif) -->
+![Demo 1](https://res.cloudinary.com/dhitmcx07/image/upload/v1744042627/zew23q9xpvmg0txvxwvy.png) 
+![Demo 2]([ruta-a-tu-imagen.gif](https://res.cloudinary.com/dhitmcx07/image/upload/v1744042628/llmxslbrq7mt4ui4wahx.png))
 
 ---
 
