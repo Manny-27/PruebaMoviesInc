@@ -1,6 +1,6 @@
 # 🎬 MoviesInc
 
-Una moderna aplicación de películas desarrollada en **React Native** utilizando **Expo**. Explora, califica y guarda tus películas favoritas desde la palma de tu mano.
+Movies Inc es una nueva startup. Su visión es convertirse en el único lugar para descubrir y reservar para ver películas y cine. Su estrategia es primero introducir una aplicación móvil que permita a sus clientes descubrir películas en las cuales podrían estar interesados de ver.
 
 ---
 
