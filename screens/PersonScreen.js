@@ -93,29 +93,29 @@ export default function PersonScreen() {
                         </Text>
                     </View>
         
-                    <View className="mx-3 p-4 mt-6 flex-row justify-between items-center bg-neutral-700 rounded-full ">
+                    <View className="mx-3 p-4 mt-6 flex-row justify-between items-center bg-blue-600 rounded-full ">
                         <View className="border-r-2 border-r-neutral-400 px-2 items-center">
-                            <Text className="text-white font-semibold ">Gender</Text>
+                            <Text className="text-white font-semibold ">Genero</Text>
                             <Text className="text-neutral-300 text-sm">
                                 {
-                                    person?.gender==1? 'Female': 'Male'
+                                    person?.gender==1? 'Femenino': 'Masculino'
                                 }
                             </Text>
                         </View>
                         <View className="border-r-2 border-r-neutral-400 px-2 items-center">
-                            <Text className="text-white font-semibold">Birthday</Text>
+                            <Text className="text-white font-semibold">Cumpleaños</Text>
                             <Text className="text-neutral-300 text-sm">
                                 {person?.birthday}
                             </Text>
                         </View>
                         <View className="border-r-2 border-r-neutral-400 px-2 items-center">
-                            <Text className="text-white font-semibold">known for</Text>
+                            <Text className="text-white font-semibold">Conocido</Text>
                             <Text className="text-neutral-300 text-sm">
                                 {person?.known_for_department}
                             </Text>
                         </View>
                         <View className="px-2 items-center">
-                            <Text className="text-white font-semibold">Popularity</Text>
+                            <Text className="text-white font-semibold">Popularidad</Text>
                             <Text className="text-neutral-300 text-sm">
                                 {person?.popularity?.toFixed(2)} %
                             </Text>
