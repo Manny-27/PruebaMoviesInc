@@ -41,7 +41,7 @@ Una moderna aplicación de películas desarrollada en **React Native** utilizand
 1. **Clona el repositorio:**
 
 ```bash
-git clone https://github.com/Manny-27/MoviesInc.git
+git clone https://github.com/Manny-27/PruebaMoviesInc.git
 cd moviesinc
 npm install
 # o
